@@ -2,9 +2,9 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Wireshark</b>
-  - [Learning how to use Wireshark](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Learning how to use Wireshark]()
 - <b>Windows Firewall and Defender</b>
-  - [Learned how to operate Firewall and Defender](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [Learned how to operate Firewall and Defender]() 
 
 
 <h2>🪪 Certifications</h2>
