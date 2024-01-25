@@ -1,15 +1,15 @@
 <h1>Kanaam<br/><a  <a href="https://www.linkedin.com/in/kanaam-jones/">Cybersecurity Student</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>Wireshark</b>
+  - [Learning how to use Wireshark](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Windows Firewall and Defender</b>
+  - [Learned how to operate Firewall and Defender](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 
 
 <h2>🪪 Certifications</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Google Cybersecurity Certificate](https://github.com/bokuwaore/Google-Cybersecurity-Certificate/tree/main)
 
 
 <h2> 🤳 Connect with me:</h2>
