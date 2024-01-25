@@ -4,7 +4,7 @@
 - <b>Wireshark</b>
   - [Learning how to use Wireshark](https://github.com/bokuwaore/Wireshark/blob/main/README.md)
 - <b>Windows Firewall and Defender</b>
-  - [Learned how to operate Firewall and Defender]() 
+  - [Learned how to operate Firewall and Defender](https://github.com/bokuwaore/Firewall-and-Defense/blob/main/README.md) 
 
 
 <h2>🪪 Certifications</h2>
@@ -24,7 +24,7 @@
 [linkedin]: https://www.linkedin.com/in/kanaam-jones
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
