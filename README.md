@@ -11,6 +11,13 @@
 
 - [Google Cybersecurity Certificate](https://github.com/bokuwaore/Google-Cybersecurity-Certificate/tree/main)
 
+<h2>🧰 Projects</h2>
+
+- [Wireshark](https://github.com/bokuwaore/Google-Cybersecurity-Certificate/tree/main)
+- [Windows Firewall and Defense](https://github.com/bokuwaore/Google-Cybersecurity-Certificate/tree/main)
+
+
+
 
 <h2> 🤳 Connect with me:</h2>
 
