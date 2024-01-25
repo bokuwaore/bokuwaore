@@ -13,7 +13,7 @@
 
 <h2>🧰 Projects</h2>
 
-- [Wireshark](https://github.com/bokuwaore/Google-Cybersecurity-Certificate/tree/main)
+- [Wireshark](https://github.com/bokuwaore/Wireshark/blob/main/README.md)
 - [Windows Firewall and Defense](https://github.com/bokuwaore/Google-Cybersecurity-Certificate/tree/main)
 
 
