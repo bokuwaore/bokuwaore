@@ -1,8 +1,8 @@
 <h1>Kanaam<br/><a  <a href="https://www.linkedin.com/in/kanaam-jones/">Cybersecurity Student</a>
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>🧰 Cybersecurity Projects:</h2>
 
 - <b>Wireshark</b>
-  - [Learning how to use Wireshark]()
+  - [Learning how to use Wireshark](https://github.com/bokuwaore/Wireshark/blob/main/README.md)
 - <b>Windows Firewall and Defender</b>
   - [Learned how to operate Firewall and Defender]() 
 
@@ -10,11 +10,6 @@
 <h2>🪪 Certifications</h2>
 
 - [Google Cybersecurity Certificate](https://github.com/bokuwaore/Google-Cybersecurity-Certificate/tree/main)
-
-<h2>🧰 Projects</h2>
-
-- [Wireshark](https://github.com/bokuwaore/Wireshark/blob/main/README.md)
-- [Windows Firewall and Defense](https://github.com/bokuwaore/Google-Cybersecurity-Certificate/tree/main)
 
 
 
