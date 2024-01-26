@@ -11,9 +11,9 @@
 
 - [Google Cybersecurity Certificate](https://github.com/bokuwaore/Google-Cybersecurity-Certificate/tree/main)
 
-<h2>🪪 Currently Working On</h2>
+<h2>💎 Currently Working On</h2>
 
-- [iNE eJPT]
+- iNE eJPT
 
 
 <h2> 🤳 Connect with me:</h2>
