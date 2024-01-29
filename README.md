@@ -16,7 +16,8 @@
 - iNE eJPT
 
 <h2>🪖 Hack the Box</h2>
-- [Hackthebox courses](https://github.com/bokuwaore/Google-Cybersecurity-Certificate/tree/main)
+
+- [Hackthebox courses](https://github.com/bokuwaore/HacktheBox)
 
 <h2>🤳 Connect with me:</h2>
 
