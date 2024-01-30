@@ -4,9 +4,11 @@
 - <b>Wireshark</b>
   - [Learning how to use Wireshark](https://github.com/bokuwaore/Wireshark/blob/main/README.md)
 - <b>Windows Firewall and Defender</b>
-  - [Learning how to operate Firewall and Defender](https://github.com/bokuwaore/Firewall-and-Defense/blob/main/README.md) 
--<b>Cisco Packet Tracer</b>
-  Learning how to analyze networks](https://github.com/bokuwaore/building-a-network/blob/main/README.md)
+  - [Learning how to operate Firewall and Defender](https://github.com/bokuwaore/Firewall-and-Defense/blob/main/README.md)
+- <b>Cisco Packet Tracer</b>
+    - [Learning how to analyze networks](https://github.com/bokuwaore/building-a-network/blob/main/README.md)
+
+
 
 <h2>🪪 Certifications</h2>
 
